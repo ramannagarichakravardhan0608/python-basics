@@ -1,2 +1,2 @@
 # python-basics
-asic Python practice programs for beginners
+basic Python practice programs for beginners
